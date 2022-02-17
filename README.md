@@ -1,12 +1,12 @@
 # Machine-Learning and Deep-Learning
 
-Under the guidance of : Dr.Sudarshan Nandy, HOD, Amity University Kolkata
+Under the guidance of : Dr.Sudarshan Nandy
 
-** Syllabus: **
+### Syllabus: 
 
-For Machine Learning:
+**For Machine Learning:**
 
-### Module I: Introduction:
+#### Module I: Introduction:
 
 Concept of Machine Learning, Applications of Machine Learning, Key elements of Machine
 Learning, Types of learning, Statistical Description of Data and Data
@@ -14,7 +14,7 @@ Visualization, Introduction of Machine Learning algorithms, Mathematical foundat
 Linear algebra, Statistical Learning: Bayesian Method, The Na ve Bayes Classifier.
 Vectorization, Matrices and Vectors,
 
-### Module II: Parametric Learning
+#### Module II: Parametric Learning
 
 Prediction using Linear Regression, Gradient Descent, Linear Regression with one
 variable, Linear Regression with multiple variables, Feature Scaling/Selection.
@@ -22,7 +22,7 @@ Dimensionality Reduction
 Classification using Logistic Regression, Logistic Regression with one variable and with
 multiple variables. Regularization and its utility
 
-### Module III: Non linear Learning:
+#### Module III: Non linear Learning:
 
 Introduction, Model Representation, Gradient Descent vs. Perceptron Training, Stochastic
 Gradient Descent, Multilayer Perceptron, Multiclass Representation, Back propagation
@@ -30,33 +30,33 @@ Algorithm. Regularization and the bias-variance dilemma; decision theory; Suppor
 Machines (SVMs); Boosting and Bagging methods; Nearest neighbors and other instancebased/
 nonparametric methods;
 
-### Module IV: Unsupervised Learning
+#### Module IV: Unsupervised Learning
 
 Unsupervised Learning, Partitioning methods, Hierarchical clustering, Fuzzy clustering,
 Density-based clustering, Model-based clustering.
 
-### Module V: Models Evaluation and Ensemble Learning
+#### Module V: Models Evaluation and Ensemble Learning
 
 Evaluation of learning algorithms performance using training, test and generalization error,
 cross-validation, Trees, Forest and Ensembles, Learning with imbalance datasets, Outlier
 detection, large scale
 
-For Data Science:
+**For Data Science:**
 
-### Module I :
+#### Module I :
 
 Introduction to deep learning, Curse of Dimensionality, Neural Network Basics,
 Gradient descent and the backpropagation algorithm, Stochastic Gradient Descent, Activation Functions, 
 Derivatives of MSE and cross-entropy loss functions, Problem of overfitting
 
-### Module II:
+#### Module II:
 
 Supervised Learning: classification, Convolutional Neural Networks, Architectures, 
 convolution / pooling layers, Invariance, stability, Variability models (deformation model, stochastic model), 
 Properties of Convolutional Neural Networks representations: invertibility, stability, 
 invariance. covariance/invariance: capsules and related models, Embeddings , inverse problems,
 
-### Module III :
+#### Module III :
 
 Deep Unsupervised Learning, Encoder Decoder architectures, Autoencoders-standard, denoising,
 contractive, Variational Autoencoders, Backpropagation and Gradient Descent in Autoencoders, Maximum Entropy Distributions,
