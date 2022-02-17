@@ -62,13 +62,13 @@ Deep Unsupervised Learning, Encoder Decoder architectures, Autoencoders-standard
 contractive, Variational Autoencoders, Backpropagation and Gradient Descent in Autoencoders, Maximum Entropy Distributions,
 Generative adversarial networks(GAN), difference between GAN and Autoencoder
 
-### Module IV :
+#### Module IV :
 
 Introduction to Markov chains, Recurrent Neural Networks, Learning from temporal datasets,
 Long Short Term Memory(LSTM), Fully recurrent neural networks, Gradient descent Optimization, Hopfield network,
 Global optimization methods
 
-### Module V:
+#### Module V:
 
 Non-convex optimization for deep networks, Stochastic Optimization, Attention and Memory Models, 
 Regularization- Lasso and Ridge, Dropout. Scalable Learning and Parallelization, 
