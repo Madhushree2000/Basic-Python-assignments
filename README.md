@@ -1,4 +1,4 @@
-# Machine-Learning and Deep-Learning
+# Machine-Learning(CSE313) and Deep-Learning(CSE321)
 
 Under the guidance of : Dr.Sudarshan Nandy
 
@@ -41,7 +41,7 @@ Evaluation of learning algorithms performance using training, test and generaliz
 cross-validation, Trees, Forest and Ensembles, Learning with imbalance datasets, Outlier
 detection, large scale
 
-#### For Deep Learning:**
+#### For Deep Learning:
 
 **Module I :**
 
